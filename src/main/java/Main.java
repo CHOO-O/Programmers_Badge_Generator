@@ -89,7 +89,7 @@ public class Main {
                                 "line-height: 1.5rem;" +
                                 "font-weight: bold;" +
                                 "font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;" +
-                                "}"
+                                "}" +
                                 ".title {" +
                                 "fill: #434343;" +
                                 "font-size: 1rem;" +
